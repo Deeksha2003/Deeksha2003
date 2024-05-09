@@ -7,13 +7,13 @@ I am looking forward to joining various amazing communities and connecting with 
 **Deeksha2003/Deeksha2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently exploring Azure services. 
-- 🌱 I’m currently learning various cloud platforms like AWS, Azure, GCP.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+-->
+- 🔭 I’m currently exploring Azure services. 
+- 🌱 I’m currently learning various cloud platforms like AWS, Azure, GCP.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Am an aastronomy lover and a stargazer at heart ⭐
--->
+
